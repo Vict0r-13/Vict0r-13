@@ -28,7 +28,7 @@ Sou um profissional de análise de dados apaixonado por transformar informaçõe
 
 Aqui estão algumas estatísticas recentes dos meus commits:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=transparent)
 
 ### Contribuições
 
