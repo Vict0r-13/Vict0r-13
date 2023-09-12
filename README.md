@@ -28,7 +28,8 @@ Sou um profissional de análise de dados apaixonado por transformar informaçõe
 
 Aqui estão algumas estatísticas recentes dos meus commits:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=transparent)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contribuições
 
@@ -36,6 +37,6 @@ Sinta-se à vontade para contribuir para este repositório ou entrar em contato 
 
 ## Contato
 
-- LinkedIn: [Seu Nome](link-para-seu-linkedin)
-- Email: seu.email@example.com
-- Site Pessoal: [seusite.com](link-para-seu-site)
+- LinkedIn: [Ivanildo Victor](https://www.linkedin.com/in/ivanildo-victor-10103818b/)
+- Email: ivanildovictor200142@gmail.com
+- Instagram: [ivanildo_victor_tri](https://www.instagram.com/ivanildo_victor_tri/)
