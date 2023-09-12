@@ -1,4 +1,4 @@
-# Meu Portfólio de Power BI, Power Apps, DAX e SQL
+# Portfólio de Análise de Dados
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Expert-blue?logo=powerbi&style=for-the-badge)](https://powerbi.microsoft.com/)
 [![Power Apps](https://img.shields.io/badge/Power%20Apps-Expert-purple?logo=powerapps&style=for-the-badge)](https://powerapps.microsoft.com/)
