@@ -20,9 +20,10 @@ Sou um profissional de análise de dados apaixonado por transformar informaçõe
 
 ### Projetos Destacados
 
-- [Projeto 1](link-para-projeto-1): Descrição breve do projeto 1.
-- [Projeto 2](link-para-projeto-2): Descrição breve do projeto 2.
-- [Projeto 3](link-para-projeto-3): Descrição breve do projeto 3.
+- [Análise exploratória de materiais de agricultura](https://github.com/Vict0r-13/Py_agro):
+  Projeto idealizado com a utilização da linguagem Python que tem como objetivo principal análisar e explorar os dados referentes a materiais de construção e gerar insights 
+  relacionados a análise realizada com a utilização das bibliotecas : Pandas e Numpy .
+  Dataset:https://www.kaggle.com/
 
 ## Estatísticas de Commits
 
