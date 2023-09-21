@@ -1,8 +1,8 @@
 # Portfólio de Análise de Dados
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Expert-blue?logo=powerbi&style=for-the-badge)](https://powerbi.microsoft.com/)
-[![Power Apps](https://img.shields.io/badge/Power%20Apps-Expert-purple?logo=powerapps&style=for-the-badge)](https://powerapps.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-Advanced-orange?logo=microsoft&style=for-the-badge)](https://docs.microsoft.com/en-us/dax/)
+[![Power Apps](https://img.shields.io/badge/Power%20Apps-Expert-purple?logo=powerapps&style=for-the-badge)](https://apps.powerapps.com/play/e/default-aea3f044-d1ec-4e00-b2b1-8769b418f600/a/a6322ec5-2398-41fe-9f6a-00317acfd31f?tenantId=aea3f044-d1ec-4e00-b2b1-8769b418f600&hint=cc8f33d1-4dad-48c9-b8d8-80f79c4e3c0e&sourcetime=1695268362183)
+[![DAX](https://img.shields.io/badge/DAX-Advanced-orange?logo=microsoft&style=for-the-badge)](https://docs.microsoft.com/en-us/dax)
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-red?logo=microsoftsqlserver&style=for-the-badge)](https://docs.microsoft.com/en-us/sql/)
 
 Este repositório contém exemplos e projetos relacionados às minhas habilidades e experiências com Power BI, Power Apps, DAX e SQL.
