@@ -20,10 +20,6 @@ Sou um profissional de análise de dados apaixonado por transformar informaçõe
 
 ### Projetos Destacados
 
-- [Análise exploratória de materiais de agricultura](https://github.com/Vict0r-13/Py_agro):
-  Projeto idealizado com a utilização da linguagem Python que tem como objetivo principal análisar e explorar os dados referentes a materiais de construção e gerar insights 
-  relacionados a análise realizada com a utilização das bibliotecas : Pandas e Numpy .
-  Dataset:https://www.kaggle.com/
 - [Loja de aplicativos](https://apps.powerapps.com/play/e/default-aea3f044-d1ec-4e00-b2b1-8769b418f600/a/a6322ec5-2398-41fe-9f6a-00317acfd31f?tenantId=aea3f044-d1ec-4e00-b2b1-8769b418f600&hint=cc8f33d1-4dad-48c9-b8d8-80f79c4e3c0e&sourcetime=1695268362183):
   Projeto construido para armazenar todos os aplicativos que criei em diversos cenários para edificação de cases de sucesso , como também tem a principal utilidade de catalogar e organizar os aplicativos desenvolvidos dentro da plataforma Power apps , pois dessa forma é possível realizar filtros e ter uma navegação mais dinâmica para utilizar o aplicativo.
 ## Estatísticas de Commits
