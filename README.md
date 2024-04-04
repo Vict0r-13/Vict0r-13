@@ -27,6 +27,9 @@ Sou um profissional de análise de dados apaixonado por transformar informaçõe
 
 - [Recomendação de Livros](https://github.com/Vict0r-13/Projeto-ML-Recomenda-o-de-Livros):
   Este repositório contém um Sistema de Recomendação de Livros desenvolvido por Ivanildo Victor Sousa Bezerra. O objetivo principal deste projeto é fornecer aos usuários sugestões personalizadas de livros com base em suas preferências de leitura.
+
+- [Análise de preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/Dash_an%C3%A1lise%20de%20pre%C3%A7os):
+  Apresento meu projeto inaugural em Python: um dashboard de análise dos preços da gasolina, abrangendo de 2003 a 2021. Utilizei Dash, Plotly, Pandas e outras bibliotecas para criar uma visualização interativa dos dados, permitindo observar a variação dos preços ao longo dos anos e por estado.
 ## Estatísticas de Commits
 
 Aqui estão algumas estatísticas recentes dos meus commits:
