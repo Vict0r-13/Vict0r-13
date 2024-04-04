@@ -14,7 +14,11 @@ Este repositório contém exemplos e projetos relacionados às minhas habilidade
 Sou um profissional de análise de dados apaixonado por transformar informações em insights acionáveis. Minha experiência inclui:
 
 - Desenvolvimento de dashboards interativos e relatórios no Power BI.
+- Desenvolvimento de dashboards no Grafana integrado a plataformas de sensores IOT.
+- Desenvolvimento de Dashboards interativos com Python.
+- Desenvolvimento de RPA's através da linguagem Python.
 - Criação de aplicativos eficazes usando o Power Apps.
+- Automação de tarefas através do Power Automate
 - Domínio de linguagem DAX para cálculos avançados em modelos de dados.
 - Habilidades sólidas em consultas SQL para manipulação de dados.
 
