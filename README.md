@@ -6,7 +6,7 @@
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-red?logo=microsoftsqlserver&style=for-the-badge)](https://docs.microsoft.com/en-us/sql/)
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 
-Este repositório contém exemplos e projetos relacionados às minhas habilidades e experiências com Power BI, Power Apps, DAX e SQL.
+Este repositório contém exemplos e projetos relacionados às minhas habilidades e experiências com Power BI, Power Apps, DAX e SQL e Python.
 
 ## Perfil Profissional
 
