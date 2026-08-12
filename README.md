@@ -1,46 +1,84 @@
-# Portfólio de Análise de Dados
+# 👋 Ivanildo Victor — Analista de BI & Engenharia de Dados
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Expert-blue?logo=powerbi&style=for-the-badge)](https://powerbi.microsoft.com/)
-[![Power Apps](https://img.shields.io/badge/Power%20Apps-Expert-purple?logo=powerapps&style=for-the-badge)](https://apps.powerapps.com/play/e/default-aea3f044-d1ec-4e00-b2b1-8769b418f600/a/a6322ec5-2398-41fe-9f6a-00317acfd31f?tenantId=aea3f044-d1ec-4e00-b2b1-8769b418f600&hint=cc8f33d1-4dad-48c9-b8d8-80f79c4e3c0e&sourcetime=1695268362183)
-[![DAX](https://img.shields.io/badge/DAX-Advanced-orange?logo=microsoft&style=for-the-badge)](https://docs.microsoft.com/en-us/dax)
-[![SQL](https://img.shields.io/badge/SQL-Advanced-orange?logo=microsoftsqlserver&style=for-the-badge)](https://docs.microsoft.com/en-us/sql/)
-[![Python](https://img.shields.io/badge/Python-Advanced-orange?logo=python&style=for-the-badge)](https://www.python.org/)
+> Transformando dados em decisões. Especialista em pipelines ETL/ELT, modelagem analítica e dashboards estratégicos aplicados a ambientes industriais de alta complexidade.
 
-Este repositório contém exemplos e projetos relacionados às minhas habilidades e experiências com Power BI, Power Apps, DAX e SQL e Python.
+---
 
-## Perfil Profissional
+## 🧭 Sobre mim
 
-### Sobre Mim
+Profissional com **+3 anos de experiência** em análise de dados e business intelligence, atuando na **M. Dias Branco** — uma das maiores indústrias alimentícias do Brasil.
 
-Sou um profissional de análise de dados apaixonado por transformar informações em insights acionáveis. Minha experiência inclui:
+Meu foco está na interseção entre **engenharia de dados e inteligência analítica**: construo pipelines confiáveis, modelos dimensionais e dashboards que a gestão realmente usa para decidir.
 
-- Desenvolvimento de dashboards interativos e relatórios no Power BI.
-- Desenvolvimento de dashboards no Grafana integrado a plataformas de sensores IOT.
-- Desenvolvimento de Dashboards interativos com Python.
-- Desenvolvimento de RPA's através da linguagem Python.
-- Criação de aplicativos eficazes usando o Power Apps.
-- Automação de tarefas através do Power Automate
-- Domínio de linguagem DAX para cálculos avançados em modelos de dados.
-- Habilidades sólidas em consultas SQL para manipulação de dados.
+- 🏭 Contexto de atuação: indústria de grande porte, dados de produção, IoT e ERP (SAP)
+- 📊 Stack principal: **Power BI · SQL · Python · ETL/ELT · dbt · GCP/BigQuery**
+- ☁️ Cloud: Google Cloud Platform (BigQuery) · AWS (S3, Glue)
+- 🎓 Pós-graduando em **Inteligência Artificial** — UNIFOR
+- 🟢 **Lean Six Sigma Green Belt** certificado
 
-### Projetos Destacados
+---
 
-- [Análise de preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/Dash_an%C3%A1lise%20de%20pre%C3%A7os):
-  Projeto inaugural em Python: um dashboard de análise dos preços da gasolina, abrangendo de 2003 a 2021. Utilizei Dash, Plotly, Pandas e outras bibliotecas para criar uma visualização interativa dos dados, permitindo observar a variação dos preços ao longo dos anos e por estado.
+## 🛠️ Stack Técnico
 
-## Estatísticas de Commits
+### BI & Visualização
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-Aqui estão algumas estatísticas recentes dos meus commits:
+### Linguagens & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Avançado-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13)](https://github.com/anuraghazra/github-readme-stats)
+### Cloud & Infraestrutura
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Contribuições
+### Automação & Plataformas
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Sinta-se à vontade para contribuir para este repositório ou entrar em contato comigo para discussões e oportunidades de colaboração.
+---
 
-## Contato
+## 📂 Projetos em Destaque
 
-- LinkedIn: [Ivanildo Victor](https://www.linkedin.com/in/ivanildo-victor-10103818b/)
-- Email: ivanildovictor200142@gmail.com
-- Instagram: [ivanildo_victor_tri](https://www.instagram.com/ivanildo_victor_tri/)
+### 📈 [Dashboard de Análise de Preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/Dash_análise%20de%20preços)
+> `Python` `Dash` `Plotly` `Pandas`
+
+Dashboard interativo com dados de **2003 a 2021** cobrindo variações regionais e temporais dos preços da gasolina no Brasil. Pipeline completo desde a extração e tratamento dos dados até a visualização final.
+
+- Processamento de série histórica com Pandas
+- Visualizações dinâmicas com filtros por estado e período
+- Deploy como aplicação web com Dash
+
+---
+
+> 🚧 **Novos projetos em construção** — foco em pipelines dbt + BigQuery e modelagem dimensional.  
+> Acompanhe os commits para atualizações.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-victor-py/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanildov92@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vict0r-13)
+
+</div>
