@@ -48,6 +48,11 @@ Meu foco está na interseção entre **engenharia de dados e inteligência anal�
 ### 📈 [Dashboard de Análise de Preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
 > `Python` `Dash` `Plotly` `Pandas`
 
+<div align="center">
+  <img src="caminho_da_imagem.png" alt="Prévia do Dashboard de Combustíveis" width="700px">
+</div>
+<br>
+
 Dashboard interativo com dados de **2003 a 2021** cobrindo variações regionais e temporais dos preços da gasolina no Brasil. Pipeline completo desde a extração e tratamento dos dados até a visualização final.
 
 - Processamento de série histórica com Pandas
