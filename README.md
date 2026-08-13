@@ -45,7 +45,7 @@ Meu foco está na interseção entre **engenharia de dados e inteligência anal�
 
 ## 📂 Projetos em Destaque
 
-### 📈 [Dashboard de Análise de Preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/Dash_análise%20de%20preços)
+### 📈 [Dashboard de Análise de Preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
 > `Python` `Dash` `Plotly` `Pandas`
 
 Dashboard interativo com dados de **2003 a 2021** cobrindo variações regionais e temporais dos preços da gasolina no Brasil. Pipeline completo desde a extração e tratamento dos dados até a visualização final.
