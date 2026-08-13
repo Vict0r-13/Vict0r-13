@@ -29,7 +29,7 @@ Meu foco está na interseção entre **engenharia de dados e inteligência anal�
 ### Linguagens & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL%20Avançado-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![R](https://img.shields.io/badge/R-0055E4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Cloud & Infraestrutura
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
