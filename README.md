@@ -49,7 +49,7 @@ Meu foco está na interseção entre **engenharia de dados e inteligência anal�
 > `Python` `Dash` `Plotly` `Pandas`
 
 <div align="center">
-  <img src="<img width="1687" height="912" alt="Image" src="https://github.com/user-attachments/assets/52f4040d-0e45-410b-acf9-9c32fac10d8b" />" alt="Prévia do Dashboard de Combustíveis" width="700px">
+  <img src="https://github.com/user-attachments/assets/52f4040d-0e45-410b-acf9-9c32fac10d8b" />" alt="Prévia do Dashboard de Combustíveis" width="700px">
 </div>
 <br>
 
