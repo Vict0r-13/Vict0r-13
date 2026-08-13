@@ -64,11 +64,8 @@ Dashboard interativo com dados de **2003 a 2021** cobrindo variações regionais
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
