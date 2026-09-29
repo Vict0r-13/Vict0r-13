@@ -1,87 +1,63 @@
-# 👋 Ivanildo Victor — Analista de BI & Engenharia de Dados
+# Ivanildo Victor
 
-> Transformando dados em decisões. Especialista em pipelines ETL/ELT, modelagem analítica e dashboards estratégicos aplicados a ambientes industriais de alta complexidade.
+**Ciência de Dados e IA aplicada à indústria | BI e Analytics**
 
----
+Sou **Analista de BI e Performance Industrial na M. Dias Branco**, onde trabalho com dados de perdas, eficiência e paradas industriais. Conecto análise de dados, estatística e práticas de Lean e TPM para apoiar a compreensão dos processos e a tomada de decisão.
 
-## 🧭 Sobre mim
+Sou formado em **Big Data e Inteligência Analítica** e curso pós-graduação em **Inteligência Artificial**. Busco oportunidades em Ciência de Dados e IA, com foco em desenvolver minha atuação em machine learning aplicado a problemas de negócio. Minha experiência em BI, preparação de dados e processos industriais orienta os projetos deste portfólio.
 
-Profissional com **+3 anos de experiência** em análise de dados e business intelligence, atuando na **M. Dias Branco** — uma das maiores indústrias alimentícias do Brasil.
+[LinkedIn — contato profissional](https://www.linkedin.com/in/ivanildovictor)
 
-Meu foco está na interseção entre **engenharia de dados e inteligência analítica**: construo pipelines confiáveis, modelos dimensionais e dashboards que a gestão realmente usa para decidir.
+## Projetos em destaque
 
-- 🏭 Contexto de atuação: indústria de grande porte, dados de produção, IoT e ERP (SAP)
-- 📊 Stack principal: **Power BI · SQL · Python · ETL/ELT · dbt · GCP/BigQuery**
-- ☁️ Cloud: Google Cloud Platform (BigQuery) · AWS (S3, Glue)
-- 🎓 Pós-graduando em **Inteligência Artificial** — UNIFOR
-- 🟢 **Lean Six Sigma Green Belt** certificado
+### 1. [Classificação de falhas industriais — AI4I 2020](https://github.com/Vict0r-13/falhas-industriais-ai4i)
 
----
+**Problema:** classificar observações de condições operacionais associadas a falhas e discutir o equilíbrio entre detectar falhas e gerar falsos alarmes.
 
-## 🛠️ Stack Técnico
+- **Dados:** 10.000 observações sintéticas da UCI, com fonte, licença e verificação de integridade documentadas.
+- **Método:** análise exploratória, baseline, regressão logística e floresta aleatória; treino, validação e teste separados. IDs e indicadores que revelam o alvo foram excluídos dos preditores. Modelo e limiar foram escolhidos na validação.
+- **Teste reservado:** em 2.000 observações com 68 falhas, a floresta detectou **55 falhas**, deixou **13 sem detecção** e gerou **67 falsos alarmes**. **Recall: 80,9%; precisão: 45,1%; average precision: 0,6407.** A carga de inspeção é parte da discussão, não apenas o recall.
+- **Entregas:** pipeline reproduzível em Python, dez testes aprovados na entrega, gráficos, relatório, guia de entrevista e **kit de integração Power BI com CSVs, consultas M e medidas DAX**.
 
-### BI & Visualização
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+**Limites:** classificação de dados sintéticos, sem comprovação de antecipação temporal de paradas, causalidade ou ganho fabril real. O kit Power BI não inclui arquivo `.pbix`.
 
-### Linguagens & Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Avançado-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-0055E4?style=for-the-badge&logo=microsoft&logoColor=white)
+[Resultados e gráficos](https://github.com/Vict0r-13/falhas-industriais-ai4i/blob/main/reports/resultados.md) · [Metodologia](https://github.com/Vict0r-13/falhas-industriais-ai4i/blob/main/docs/metodologia.md)
 
-### Cloud & Infraestrutura
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 2. [Recomendação de livros](https://github.com/Vict0r-13/sistema-recomendacao-livros)
 
-### Automação, Plataformas & Ferramentas
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+Estudo de filtragem colaborativa com uma matriz de avaliações de livros por usuários. O script utiliza **KNN com distância de cosseno**, matriz esparsa e **PCA para visualização**. Há um notebook exploratório e código Python organizado em funções.
 
----
+**Estado atual:** a base necessária não está incluída no repositório; a reprodução depende de disponibilizá-la no formato documentado. Não há avaliação de qualidade das recomendações em conjunto reservado publicada. O projeto demonstra estudo do método, sem alegação de desempenho em produção.
 
-## 📂 Projetos em Destaque
+### 3. [Análise de preços da gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
 
-### 📈 [Dashboard de Análise de Preços da Gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
-> `Python` `Dash` `Plotly` `Pandas`
+Dashboard em **Python, Dash, Plotly e Pandas**, com código para explorar a evolução dos preços, comparar estados e analisar regiões. O repositório contém a aplicação, o CSV tratado e uma imagem de prévia. É um projeto de análise descritiva e visualização, sem alegação de previsão de preços.
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/52f4040d-0e45-410b-acf9-9c32fac10d8b" alt="Prévia do Dashboard de Combustíveis" width="700px">
-</div>
-<br>
+[Código e instruções](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina) · [Prévia do painel](https://github.com/Vict0r-13/Dashboards.py/blob/main/dash-gasolina/assets/dash_gasolina.png)
 
-Dashboard interativo com dados de **2003 a 2021** cobrindo variações regionais e temporais dos preços da gasolina no Brasil. Pipeline completo desde a extração e tratamento dos dados até a visualização final.
+## Competências
 
-- Processamento de série histórica com Pandas
-- Visualizações dinâmicas com filtros por estado e período
-- Deploy como aplicação web com Dash
+| Área | Tecnologias e práticas |
+|---|---|
+| Análise de dados e estudos de ML | Python, Pandas, NumPy, scikit-learn, estatística, análise exploratória e avaliação de modelos |
+| SQL e engenharia de dados | SQL avançado, PostgreSQL, modelagem dimensional, ETL/ELT, dbt e APIs REST |
+| BI e visualização | Power BI, DAX, Grafana, Dash e Plotly |
+| Plataformas de dados | BigQuery/GCP e AWS S3/Glue |
+| Automação e versionamento | Power Apps, Power Automate, Git, GitHub e GitLab |
+| Contexto industrial | Análise de perdas, eficiência e paradas, Lean, TPM e Six Sigma |
 
----
+Os projetos acima mostram a aplicação de parte dessas competências. Minha formação e meus estudos em IA complementam a experiência profissional em BI e dados industriais.
 
-> 🚧 **Novos projetos em construção** — foco em pipelines dbt + BigQuery e modelagem dimensional.  
-> Acompanhe os commits para atualizações.
+## Formação e desenvolvimento
 
----
+- **Pós-graduação em Inteligência Artificial — UNIFOR, 2025–2026:** em andamento.
+- **Big Data e Inteligência Analítica — UNIASSELVI, 2022–2025:** concluído.
+- **Green Belt — M. Dias Branco** e **Yellow Belt — FM2S**.
+- **Trilha de Ciência de Dados — Indicium**.
+- **Formação em Cibersegurança — Softex/SENAI-SP**.
 
-## 📊 GitHub Stats
+## Trajetória profissional
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vict0r-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0r-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
+Na M. Dias Branco, iniciei em digitalização industrial em 2022, atuei com dados e processos industriais em 2023 e assumi a função de Analista de BI e Performance Industrial em janeiro de 2024. Anteriormente, estagiei em Planejamento e Dados na Mallory. Essa trajetória sustenta meu interesse em aplicar ciência de dados e IA a problemas industriais concretos.
 
----
-
-## 📬 Contato
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-victor-py/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanildov92@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vict0r-13)
-
-</div>
+Para conversar sobre oportunidades e projetos: **[LinkedIn](https://www.linkedin.com/in/ivanildovictor)**.
