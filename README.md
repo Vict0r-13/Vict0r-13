@@ -66,7 +66,7 @@ Os projetos acima mostram a aplicação de parte dessas competências. Minha for
 - **Pós-graduação em Inteligência Artificial — UNIFOR, 2025–2026:** em andamento.
 - **Bacharelado em Física — UNINTER:** em andamento.
 - **Big Data e Inteligência Analítica — UNIASSELVI, 2022–2025:** concluído.
-- **Green Belt — M. Dias Branco** e **Yellow Belt — FM2S**.
+- **Green Belt — M. Dias Branco**.
 - **Trilha de Ciência de Dados — Indicium**.
 - **Formação em Cibersegurança — Softex/SENAI-SP**.
 
