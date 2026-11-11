@@ -6,7 +6,7 @@ Sou **Analista de BI e Performance Industrial na M. Dias Branco**, onde trabalho
 
 Sou formado em **Big Data e Inteligência Analítica** e curso pós-graduação em **Inteligência Artificial**. Busco oportunidades em Ciência de Dados e IA, com foco em desenvolver minha atuação em machine learning aplicado a problemas de negócio. Minha experiência em BI, preparação de dados e processos industriais orienta os projetos deste portfólio.
 
-[LinkedIn — contato profissional](https://www.linkedin.com/in/ivanildovictor)
+[LinkedIn — contato profissional](https://www.linkedin.com/in/ivanildo-victor-py/)
 
 ## Projetos em destaque
 
@@ -74,4 +74,4 @@ Os projetos acima mostram a aplicação de parte dessas competências. Minha for
 
 Na M. Dias Branco, iniciei em digitalização industrial em 2022, atuei com dados e processos industriais em 2023 e assumi a função de Analista de BI e Performance Industrial em janeiro de 2024. Anteriormente, estagiei em Planejamento e Dados na Mallory. Essa trajetória sustenta meu interesse em aplicar ciência de dados e IA a problemas industriais concretos.
 
-Para conversar sobre oportunidades e projetos: **[LinkedIn](https://www.linkedin.com/in/ivanildovictor)**.
+Para conversar sobre oportunidades e projetos: **[LinkedIn](https://www.linkedin.com/in/ivanildo-victor-py/)**.
