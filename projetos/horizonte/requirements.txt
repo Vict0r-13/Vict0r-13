@@ -1,0 +1,3 @@
+# O uso local por app.py requer somente a biblioteca padrão do Python.
+# PyInstaller é opcional e necessário apenas para build_exe.py.
+# O adaptador mobile_runtime.py requer o projeto Android/Chaquopy original.

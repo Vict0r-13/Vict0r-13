@@ -10,7 +10,20 @@ Sou formado em **Big Data e Inteligência Analítica** e curso pós-graduação 
 
 ## Projetos em destaque
 
-### 1. [Classificação de falhas industriais — AI4I 2020](https://github.com/Vict0r-13/falhas-industriais-ai4i)
+### 1. [Horizonte — planejamento financeiro pessoal](./projetos/horizonte)
+
+**Problema:** entender se o saldo disponível chega ao próximo recebimento e quanto posso gastar por dia considerando os compromissos registrados.
+
+- **Produto:** aplicativo que utilizo no meu planejamento financeiro pessoal, construído com apoio de IA por vibe coding.
+- **Minha participação:** definição das funcionalidades e regras de negócio, testes de uso, identificação de falhas e orientação da evolução do produto.
+- **Tecnologias:** núcleo Python, persistência SQLite e interface HTML/CSS/JavaScript. O material contém um adaptador Android; o projeto nativo completo não está incluído.
+- **Entregas:** código organizado, demonstração com dados fictícios, regras documentadas, estudo de caso e oito testes das regras centrais aprovados nesta preparação.
+
+**Limites:** as projeções financeiras são determinísticas; IA foi usada no desenvolvimento. Uso pessoal, sem alegação de usuários externos ou ganho financeiro medido. A interface completa, os instaladores e os recursos complementares não foram integralmente testados nesta preparação.
+
+[Código e execução](./projetos/horizonte) · [Regras de negócio](./projetos/horizonte/docs/regras-de-negocio.md) · [Estudo de caso](./projetos/horizonte/docs/estudo-de-caso.md)
+
+### 2. [Classificação de falhas industriais — AI4I 2020](https://github.com/Vict0r-13/falhas-industriais-ai4i)
 
 **Problema:** classificar observações de condições operacionais associadas a falhas e discutir o equilíbrio entre detectar falhas e gerar falsos alarmes.
 
@@ -23,13 +36,13 @@ Sou formado em **Big Data e Inteligência Analítica** e curso pós-graduação 
 
 [Resultados e gráficos](https://github.com/Vict0r-13/falhas-industriais-ai4i/blob/main/reports/resultados.md) · [Metodologia](https://github.com/Vict0r-13/falhas-industriais-ai4i/blob/main/docs/metodologia.md)
 
-### 2. [Recomendação de livros](https://github.com/Vict0r-13/sistema-recomendacao-livros)
+### 3. [Recomendação de livros](https://github.com/Vict0r-13/sistema-recomendacao-livros)
 
 Estudo de filtragem colaborativa com uma matriz de avaliações de livros por usuários. O script utiliza **KNN com distância de cosseno**, matriz esparsa e **PCA para visualização**. Há um notebook exploratório e código Python organizado em funções.
 
 **Estado atual:** a base necessária não está incluída no repositório; a reprodução depende de disponibilizá-la no formato documentado. Não há avaliação de qualidade das recomendações em conjunto reservado publicada. O projeto demonstra estudo do método, sem alegação de desempenho em produção.
 
-### 3. [Análise de preços da gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
+### 4. [Análise de preços da gasolina](https://github.com/Vict0r-13/Dashboards.py/tree/main/dash-gasolina)
 
 Dashboard em **Python, Dash, Plotly e Pandas**, com código para explorar a evolução dos preços, comparar estados e analisar regiões. O repositório contém a aplicação, o CSV tratado e uma imagem de prévia. É um projeto de análise descritiva e visualização, sem alegação de previsão de preços.
 
@@ -51,6 +64,7 @@ Os projetos acima mostram a aplicação de parte dessas competências. Minha for
 ## Formação e desenvolvimento
 
 - **Pós-graduação em Inteligência Artificial — UNIFOR, 2025–2026:** em andamento.
+- **Bacharelado em Física — UNINTER:** em andamento.
 - **Big Data e Inteligência Analítica — UNIASSELVI, 2022–2025:** concluído.
 - **Green Belt — M. Dias Branco** e **Yellow Belt — FM2S**.
 - **Trilha de Ciência de Dados — Indicium**.

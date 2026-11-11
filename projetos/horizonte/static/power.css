@@ -1,0 +1,27 @@
+/* Flat cards, readable mobile forms and progressive detail. */
+.power-source{border-left:3px solid var(--blue);margin-bottom:18px}
+.power-statline{display:flex;gap:40px;flex-wrap:wrap;margin:18px 0}
+.power-statline>div{display:flex;flex-direction:column;gap:6px}
+.power-statline strong{font-size:30px;font-weight:600;letter-spacing:-1px}
+.power-source details{margin-top:14px}
+.power-source a{color:var(--blue)}
+.power-warning{padding:12px 14px;border-radius:10px;background:rgba(210,147,40,.12);border:1px solid rgba(210,147,40,.3);line-height:1.6}
+.power-section{margin-top:18px}
+.power-section>summary,.power-history>summary{font-weight:600;cursor:pointer;font-size:17px;line-height:1.5}
+.power-section[open]>summary,.power-history[open]>summary{margin-bottom:16px}
+.power-form{margin:18px 0;align-items:end}
+.power-form select,.power-form input{width:100%;min-width:0}
+.power-form>button{justify-self:start;min-height:44px}
+.power-results{margin-top:22px}
+.power-results .card{box-shadow:none;background:var(--bg);min-width:0}
+.power-results .metric{font-size:clamp(23px,2.2vw,32px);overflow-wrap:anywhere}
+.power-period-result{margin-top:20px}
+.power-scenario{padding:18px;border:1px solid var(--line);border-radius:12px;min-width:0}
+.power-scenario p{display:flex;flex-direction:column;gap:5px;margin:16px 0;line-height:1.5}
+.power-scenario strong{font-size:19px;overflow-wrap:anywhere}
+.power-required{border-top:1px solid var(--line);padding-top:14px}
+.power-goal-choice{display:flex;align-items:end;gap:12px;flex-wrap:wrap;margin-top:18px}
+.power-goal-choice .field{flex:1;min-width:190px}
+.power-history{margin-top:18px}
+.power-history .row>div{display:flex;flex-direction:column;gap:5px}
+@media(max-width:700px){.power-source .split-heading{align-items:flex-start;gap:14px;flex-direction:column}.power-source h2{font-size:20px}.power-statline{gap:26px}.power-statline strong{font-size:27px}.power-form{grid-template-columns:1fr}.power-results{grid-template-columns:1fr!important}.power-goal-choice{align-items:stretch}.power-goal-choice button{width:100%}.power-form button{width:100%}.power-source,.power-section{overflow:hidden}}
